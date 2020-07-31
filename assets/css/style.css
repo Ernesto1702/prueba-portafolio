@@ -1,0 +1,12 @@
+.text-decoration{
+    text-decoration:underline;
+}
+.section-action{
+    background-color:black;
+    text-align: center;
+    font-size: 32px;
+    }
+    .link{
+        text-decoration:none;
+        color: white;
+    }
