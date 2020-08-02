@@ -1,12 +1,29 @@
+.titulo{
+    font-family: 'Open Sans', sans-serif;
+}
+.titulo2{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
 .text-decoration{
     text-decoration:underline;
 }
-.section-action{
-    background-color:black;
+.link1{
+    text-decoration: none;
+    color: black;
     text-align: center;
-    font-size: 32px;
-    }
+}
+
     .link{
         text-decoration:none;
         color: white;
+    }
+
+    .text{
+        text-align: center;
+        color:#FFFFFF;
+        position: absolute;;
+        top: 900px;
     }
